@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "Unilin.IIOT.PertenService": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+
+  }
+}
